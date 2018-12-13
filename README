@@ -1,0 +1,6 @@
+Author: Andrew Smith
+
+Compliance Scraper is a tool to check any linux based operating system for some
+standard security measures that should be in place.
+
+After running this tool, a report will be generated at /var/log/compliance_report
